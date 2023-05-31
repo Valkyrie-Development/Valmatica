@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: [https://github.com/Valkyrie-Development/Valmatica/new/main]
+source: ["main"]
 incremental: false
 highlighter: rouge
 gist:
