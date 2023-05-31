@@ -3,6 +3,7 @@ safe: true
 source: ["main"]
 incremental: false
 highlighter: rouge
+theme: jekyll-theme-cayman
 gist:
   noscript: false
 kramdown:
